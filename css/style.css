@@ -1,0 +1,8 @@
+footer {
+    background: linear-gradient(70deg, rgba(26,54,68,255), rgba(27,82,113,255));
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
